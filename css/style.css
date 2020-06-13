@@ -1,0 +1,19 @@
+.ankit{
+    text-align: center;
+}
+/*.fb_page_model_button button{*/
+    /*display: none;*/
+/*}*/
+.Polaris-Frame__Content{
+    width:100%
+}
+.instagram_image{
+    height: 200px; /* height given for illustration */
+    display: flex;
+    flex-flow: row wrap;
+    position: relative;
+}
+.image_parent{
+    margin: 4px;
+    flex: 0 1 calc(20% - 8px);
+}

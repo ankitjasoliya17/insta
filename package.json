@@ -1,0 +1,39 @@
+{
+  "name": "instagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js",
+    "build": "next build",
+    "heroku-postbuild": "npm run build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ankitjasoliya@bitbucket.org/ankitjasoliya/insta.git"
+  },
+  "author": "Ankit Jasoliya",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/ankitjasoliya/insta#readme",
+  "dependencies": {
+    "@shopify/koa-shopify-auth": "^3.1.63",
+    "@shopify/polaris": "^4.25.1",
+    "@zeit/next-css": "^1.0.1",
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "isomorphic-fetch": "^2.2.1",
+    "koa": "^2.12.0",
+    "koa-session": "^5.13.1",
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-facebook-login": "^4.1.1",
+    "superagent": "^5.2.2"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}

@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4aca1c41-923c-4d34-9dc5-8bb738483b7f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="insta" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="instagram.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/instagram.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2625">
+              <caret line="177" column="29" lean-forward="false" selection-start-line="168" selection-start-column="8" selection-end-line="177" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="next.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/next.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="acceptsinformation.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/acceptsinformation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9">
+              <caret line="149" column="0" lean-forward="false" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/_app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shop.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/shop.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="975">
+              <caret line="69" column="35" lean-forward="false" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="1" lean-forward="false" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>content-wrapper</find>
+      <find>all.min.css</find>
+      <find>dataTables.bootstrap4.min.css</find>
+      <find>responsive.bootstrap4.min.css</find>
+      <find>dataTables</find>
+      <find>adminlte.min.css</find>
+      <find>bootstrap.bundle.min.js</find>
+      <find>jquery.dataTables.min.js</find>
+      <find>content</find>
+      <find>$School_Phone</find>
+      <find>Horizontal Form</find>
+      <find>summ</find>
+      <find>textarea</find>
+      <find>ticketpage</find>
+      <find>shopUrl</find>
+      <find>helppage</find>
+      <find>profile_click_</find>
+      <find>imgProfileInp_0</find>
+      <find>EmployeePhoto</find>
+      <find>ScreenshotImage</find>
+      <find>preview_image_profile_</find>
+      <find>ProfilePhotoHidden</find>
+      <find>$newphoto</find>
+      <find>parent_emer_idn</find>
+      <find>delete_image</find>
+      <find>engines</find>
+      <find>webpack</find>
+      <find>info_like</find>
+      <find>getInitialProps</find>
+      <find>shopbackgroundcolor</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/css</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/teacher_verification.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/Employee.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/updatechildren.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/children.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/Shopify_app.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/Login 3.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/autoload.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/Common_model 2.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/login.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/Common_model.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/Login 2.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/Dashboard.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/routes.php" />
+        <option value="$PROJECT_DIR$/../../Drive B/AdminLTE/AdminLTE-master 2/index.html" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/dashboard 3.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/Ticket.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/header.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/index.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/index 2.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/qrtem.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/checkin.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/checkout.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/dashboard.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/parent_portal.css" />
+        <option value="$PROJECT_DIR$/../../Drive B/AdminLTE/AdminLTE-master 2/pages/forms/general.html" />
+        <option value="$PROJECT_DIR$/../../Drive B/AdminLTE/AdminLTE-master 2/pages/forms/editors.html" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/add.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/edit.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/template.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/list.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/Help.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/Home.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/anchortag.js" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/template 2.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/Help 2.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/help 3.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/style.css" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/help.js" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/bnk.php" />
+        <option value="$PROJECT_DIR$/../../Download/Chrome/image-gallery 4/index.html" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/updateemergency.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/updateme.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/updateprofile.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/unlinkimage.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/emergency.php" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/me.php" />
+        <option value="$PROJECT_DIR$/pages/instagram.js" />
+        <option value="/private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/createorder.php" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/pages/index.js" />
+        <option value="$PROJECT_DIR$/pages/acceptsinformation.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/react-instagram/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="993" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="insta" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insta" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="insta" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insta" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name=".next" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="insta" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insta" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name=".next" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="static" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="insta" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insta" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name=".next" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="static" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="insta" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insta" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name=".next" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="static" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="styles.chunk.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="insta" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insta" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="insta" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insta" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="HTML&#10;JQuery-CSS&#10;PHP" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4aca1c41-923c-4d34-9dc5-8bb738483b7f" name="Default" comment="" />
+      <created>1585733991714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585733991714</updated>
+      <workItem from="1585733992894" duration="3835000" />
+      <workItem from="1585836070048" duration="320000" />
+      <workItem from="1585897990086" duration="6966000" />
+      <workItem from="1585981570330" duration="6793000" />
+      <workItem from="1586066677216" duration="2100000" />
+      <workItem from="1586153837304" duration="12988000" />
+      <workItem from="1586238661174" duration="16704000" />
+      <workItem from="1586325657960" duration="12000" />
+      <workItem from="1586326900328" duration="8123000" />
+      <workItem from="1586351999420" duration="1904000" />
+      <workItem from="1586373380968" duration="194000" />
+      <workItem from="1586416221521" duration="10379000" />
+      <workItem from="1586500517657" duration="1000000" />
+      <workItem from="1586509974986" duration="5783000" />
+      <workItem from="1586586038406" duration="4544000" />
+      <workItem from="1586672087014" duration="2649000" />
+      <workItem from="1586757677813" duration="7001000" />
+      <workItem from="1586843664405" duration="650000" />
+      <workItem from="1586853492443" duration="8370000" />
+      <workItem from="1586936547599" duration="2934000" />
+      <workItem from="1587016860216" duration="4842000" />
+      <workItem from="1587024977268" duration="3829000" />
+      <workItem from="1587107826852" duration="213000" />
+      <workItem from="1587108106108" duration="62000" />
+      <workItem from="1587108494609" duration="943000" />
+      <workItem from="1587109721601" duration="147000" />
+      <workItem from="1587109970020" duration="331000" />
+      <workItem from="1587110312520" duration="3713000" />
+      <workItem from="1587190748615" duration="11232000" />
+      <workItem from="1587280107262" duration="3448000" />
+      <workItem from="1587362896600" duration="7959000" />
+      <workItem from="1587456434421" duration="3908000" />
+      <workItem from="1587533834493" duration="5515000" />
+      <workItem from="1587623670105" duration="4445000" />
+      <workItem from="1587705932988" duration="3577000" />
+      <workItem from="1587795791428" duration="4829000" />
+      <workItem from="1587892705929" duration="2066000" />
+      <workItem from="1587968666828" duration="13377000" />
+      <workItem from="1588057256456" duration="7440000" />
+      <workItem from="1588144142192" duration="4129000" />
+      <workItem from="1588228330585" duration="13304000" />
+      <workItem from="1588312316939" duration="8284000" />
+      <workItem from="1588399126937" duration="3192000" />
+      <workItem from="1588483644464" duration="5082000" />
+      <workItem from="1588576518673" duration="4757000" />
+      <workItem from="1588658722655" duration="7289000" />
+      <workItem from="1588747203641" duration="4946000" />
+      <workItem from="1588834318688" duration="8862000" />
+      <workItem from="1588920711784" duration="9782000" />
+      <workItem from="1589005225411" duration="8746000" />
+      <workItem from="1589091540127" duration="4848000" />
+      <workItem from="1589111781713" duration="3246000" />
+      <workItem from="1589368434809" duration="2518000" />
+      <workItem from="1589378723358" duration="2021000" />
+      <workItem from="1589439065242" duration="9322000" />
+      <workItem from="1589524785635" duration="9675000" />
+      <workItem from="1589606402451" duration="12607000" />
+      <workItem from="1589695695927" duration="5082000" />
+      <workItem from="1589779549363" duration="11007000" />
+      <workItem from="1589869860949" duration="5130000" />
+      <workItem from="1589955672348" duration="9328000" />
+      <workItem from="1590038603453" duration="7908000" />
+      <workItem from="1590132097952" duration="62000" />
+      <workItem from="1590132182815" duration="4145000" />
+      <workItem from="1590214125988" duration="6899000" />
+      <workItem from="1590308087705" duration="2853000" />
+      <workItem from="1590405253154" duration="433000" />
+      <workItem from="1590475066485" duration="5437000" />
+      <workItem from="1590564921233" duration="4645000" />
+      <workItem from="1590648797131" duration="2499000" />
+      <workItem from="1590685698010" duration="1742000" />
+      <workItem from="1590731170047" duration="2520000" />
+      <workItem from="1590815777221" duration="6823000" />
+      <workItem from="1590903279103" duration="3083000" />
+      <workItem from="1590985580670" duration="4391000" />
+      <workItem from="1591079853748" duration="1563000" />
+      <workItem from="1591159323176" duration="167000" />
+      <workItem from="1591614412090" duration="6608000" />
+      <workItem from="1591677740453" duration="7473000" />
+      <workItem from="1591765548409" duration="359000" />
+      <workItem from="1591785521479" duration="204000" />
+      <workItem from="1591860014020" duration="5055000" />
+      <workItem from="1591940178499" duration="9561000" />
+      <workItem from="1592019478783" duration="141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="422853000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="993" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1656017" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.50625" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914287" sideWeight="0.49375" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.88457143" sideWeight="0.49791667" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Anonymous Apex" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="SOQL Query" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Log Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/template.php" />
+    <entry file="file://$PROJECT_DIR$/../../Drive B/AdminLTE/AdminLTE-master 2/pages/UI/buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="84" lean-forward="true" selection-start-line="21" selection-start-column="84" selection-end-line="21" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Drive B/AdminLTE/AdminLTE-master 2/pages/forms/editors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="727" column="33" lean-forward="false" selection-start-line="740" selection-start-column="16" selection-end-line="741" selection-end-column="151" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Drive B/AdminLTE/AdminLTE-master 2/pages/forms/general.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="963" column="18" lean-forward="false" selection-start-line="963" selection-start-column="18" selection-end-line="963" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/edit.php" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/list.php" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/Home.php" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/anchortag.js" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/Ticket 2.php" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/Help 2.php" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/help.php" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/template 2.php" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/help 3.php" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/ticket.js" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/help.js" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/style.css" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/lux.php" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/bnk.php" />
+    <entry file="file://$PROJECT_DIR$/pages/instasettings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-673">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/slick.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="118" column="1" lean-forward="false" selection-start-line="118" selection-start-column="1" selection-end-line="118" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/slick-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Download/Chrome/image-gallery 4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2760">
+          <caret line="184" column="7" lean-forward="false" selection-start-line="184" selection-start-column="7" selection-end-line="184" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/cron.php" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/dbconf2.php" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/dbconf.php" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/googleconfig.php" />
+    <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/slick.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2595">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/updatechildren.php" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/unlink.php" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/index2.php" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/updateme.php" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/updateemergency.php" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/updateprofile.php" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/unlinkimage.php" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/emergency.php" />
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/me.php" />
+    <entry file="file://$PROJECT_DIR$/../../Download/Chrome/image-gallery 4/css/slick.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/login-process.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///private/var/folders/12/50zqxv4x2b32dvs2xp16jbp80000gn/T/fz3temp-2/createorder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2430">
+          <caret line="162" column="4" lean-forward="false" selection-start-line="162" selection-start-column="4" selection-end-line="162" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="1" lean-forward="false" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Test.js" />
+    <entry file="file://$PROJECT_DIR$/pages/instagram.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2625">
+          <caret line="177" column="29" lean-forward="false" selection-start-line="168" selection-start-column="8" selection-end-line="177" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/next.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/shop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="69" column="35" lean-forward="false" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/acceptsinformation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="149" column="0" lean-forward="false" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
